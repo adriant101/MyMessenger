@@ -22,6 +22,6 @@ public class CreateMessageActivity extends Activity {
         Intent chosenIntent = Intent.createChooser(intent, chooserTitle);
 
         startActivity(chosenIntent);
-
+//Final commit. Confirmed Chooser is working.
     }
 }
